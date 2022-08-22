@@ -41,7 +41,7 @@ module.exports = {
                             {
                                 type: MessageComponentTypes.BUTTON,
                                 style: ButtonStyleTypes.SUCCESS,
-                                label: "Smexy Button",
+                                label: "Button",
                                 custom_id: "button",
 
                             }
